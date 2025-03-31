@@ -1,4 +1,3 @@
-## Hi, there!
 # **🚀 Welcome to my GitHub channel! 👋
 
 <img src="https://github.com/Lucas2006-work/Lucas2006-work/blob/main/lucas_intro_image.png" alt="side Image" align="center" width="1000" height="auto" />
@@ -14,22 +13,41 @@ What am I up to?
 💬 Mail me for flutter, React, or any App or Web development related project  
 📫 Find me here: @Lucas2006-work  
 
-## ⚡ Technologies
-![HTML](https://img.shields.io/badge/-Html-black?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
-![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+## ⚡ Major Technologies
+<p align="center">
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/vue/vue.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/postgresql/postgresql.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/python/python.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/django/django.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/git/git.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+</p>
+<p align="center">
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Vue</code>
+  <code>TypeScript</code>
+  <code>PostgreSQL</code>
+  <code>Python</code>
+  <code>DJango</code>
+  <code>Git</code>
+  <code>Laravel</code>
+</p>
 
 ## **🛠 Projects Scope**  
 My repositories will include projects using various technologies, such as:  
-✅ **Frontend:** HTML, CSS, JavaScript, React, Angular, Vue  
-✅ **Backend:** Node.js, Express, Python, FastAPI  
-✅ **Database:** MongoDB, MySQL    
+✅ **Frontend:** React, Vue, Remix, Next, Angular, Laravel  
+✅ **Backend:** Node.js, Express, Python, FastAPI, ASP.NET 
+✅ **Database:** MongoDB, PostgreSQL, MySQL     
 ✅ **AI:** GenAI, ChatGPT, Stable Diffusion  
 ✅ **Version Control:** Git & GitHub    
 
