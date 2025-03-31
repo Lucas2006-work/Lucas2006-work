@@ -1,7 +1,5 @@
 # **🚀 Welcome to my GitHub channel! 👋
 
-<img src="https://github.com/Lucas2006-work/Lucas2006-work/blob/main/lucas_intro_image.png" alt="side Image" align="center" width="1000" height="auto" />
-
 ## **📖 About Me**  
 I'm a senior full-stack developer based in Sumare, Brazil, specializing in creating various scalable large websites. With a keen eye for detail and a love for clean code, I strive to deliver exceptional user experiences through my work.
   
@@ -42,7 +40,7 @@ What am I up to?
 ## **🛠 Projects Scope**  
 My repositories will include projects using various technologies, such as:  
 ✅ **Frontend:** React, Vue, Remix, Next, Angular, Laravel  
-✅ **Backend:** Node.js, Express, Python, FastAPI, ASP.NET 
+✅ **Backend:** Node.js, Express, Python, FastAPI, ASP.NET  
 ✅ **Database:** MongoDB, PostgreSQL, MySQL     
 ✅ **AI:** GenAI, ChatGPT, Stable Diffusion  
 ✅ **Version Control:** Git & GitHub    
@@ -51,6 +49,6 @@ My repositories will include projects using various technologies, such as:
 
 ## **📞 Contact**  
 👤 **Lucas Campos**  
-📧 Email: lucaswork2006@gmail.com 
-📂 GitHub: [lucaswork](https://github.com/Lucas2006-work)  
-💬 LinkedIn: [linkedin.com/in/lucas-campos-916177348](https://www.linkedin.com/in/lucas-campos-916177348) 
+📧 Email: lucaswork2006@gmail.com  
+📂 GitHub: [lucaswork](https://github.com/Lucas2006-work)   
+💬 LinkedIn: [linkedin.com/in/lucas-campos-916177348](https://www.linkedin.com/in/lucas-campos-916177348)  
