@@ -24,8 +24,6 @@ What am I up to?
   <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/postgresql/postgresql.png"></code>
   <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/python/python.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/django/django.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/git/git.png"></code>
   <code><img height="60" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 </p>
 <p align="center">
@@ -38,8 +36,6 @@ What am I up to?
   <code>TypeScript</code>
   <code>PostgreSQL</code>
   <code>Python</code>
-  <code>DJango</code>
-  <code>Git</code>
   <code>Laravel</code>
 </p>
 
