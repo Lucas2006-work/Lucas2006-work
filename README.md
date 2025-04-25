@@ -9,7 +9,7 @@ What am I up to?
 💡 As I progress further, my sights are set on the latest AI technologies.  
 📚 Learning is a continuous process, and I'm aiming to study hard as a continuous learner.  
 💬 Mail me for flutter, React, or any App or Web development related project  
-📫 Find me here: @Lucas2006-work  
+📫 Find me here: @lucascampos777
 
 ## ⚡ Major Technologies
 <p align="center">
@@ -39,16 +39,16 @@ What am I up to?
 
 ## **🛠 Projects Scope**  
 My repositories will include projects using various technologies, such as:  
-✅ **Frontend:** React, Vue, Remix, Next, Angular, Laravel  
-✅ **Backend:** Node.js, Express, Python, FastAPI, ASP.NET  
-✅ **Database:** MongoDB, PostgreSQL, MySQL     
-✅ **AI:** GenAI, ChatGPT, Stable Diffusion  
-✅ **Version Control:** Git & GitHub    
+✅ **Frontend:** React.js, Next.js, Redux, Vue.js, TypeScript / JavaScript, HTML, CSS, Remix  
+✅ **Backend:** Node.js, NestJS, Python (DJango, FastAPI), Express.js, GraphQL, REST APIs  
+✅ **Databases:** MongoDB, PostgreSQL, Prisma ORM, Firestore, DynamoDB, Redis  
+✅ **DevOps/Tools:** Git, Git Flow, Docker, AWS, Kubernetes, Azure DevOps, CI/CD, Jira, Jenkins  
+✅ **Testing/Architecture:** Jest, React Testing Library, Cypress, TDD, SOLID Principles  
 
 ---
 
 ## **📞 Contact**  
 👤 **Lucas Campos**  
-📧 Email: lucaswork2006@gmail.com  
-📂 GitHub: [lucaswork](https://github.com/Lucas2006-work)   
+📧 Email: lucascamposwork777@gmail.com  
+📂 GitHub: [lucaswork777](https://github.com/lucaswork777)   
 💬 LinkedIn: [linkedin.com/in/lucas-campos-916177348](https://www.linkedin.com/in/lucas-campos-916177348)  
